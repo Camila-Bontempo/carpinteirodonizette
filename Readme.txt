@@ -1,6 +1,8 @@
-Thanks for downloading this template!
+Bem vindo(a)!
 
-Template Name: Moderna
-Template URL: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Website de divulgação Capinteiro Donizette:
+https://carpinteirodonizette.netlify.app/
+
+Autora: Camila Bontempo.
+
+
